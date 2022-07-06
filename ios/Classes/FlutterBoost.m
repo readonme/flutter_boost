@@ -26,7 +26,7 @@
 #import <Flutter/Flutter.h>
 #import "FlutterBoost.h"
 #import "FlutterBoostPlugin.h"
-#import "Options.h"
+#import "BoostOptions.h"
 @interface FlutterBoost ()
 
 @property (nonatomic, strong) FlutterEngine*  engine;

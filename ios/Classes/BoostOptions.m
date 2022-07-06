@@ -22,7 +22,7 @@
  * THE SOFTWARE.
  */
 
-#import "Options.h"
+#import "BoostOptions.h"
 
 
 @implementation FlutterBoostSetupOptions

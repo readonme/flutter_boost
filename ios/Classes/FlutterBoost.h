@@ -29,7 +29,7 @@
 #import "FlutterBoostDelegate.h"
 #import "FlutterBoostPlugin.h"
 #import "FBFlutterViewContainer.h"
-#import "Options.h"
+#import "BoostOptions.h"
 #import "messages.h"
 
 
